@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt Text](/header.png)
 
 <!--
 **ashikulbarichy/ashikulbarichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
