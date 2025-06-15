@@ -2,7 +2,7 @@
 
 - 🎓 A Computer Science and Engineering undergraduate from [North South University](https://www.northsouth.edu/).
 - 🌱 I’m currently working on a research project on the effectiveness of Quantum Machine Learning in medical diagnosis.
-- 🤔 I’m enthusiastic about **Cyber Security** and **Machine Learning**.
+- 🤔 I’m enthusiastic about **Data Engineering** and **Machine Learning**.
 - 👨‍💻 Currently learning **Quantum Machine Learning**.
 - 🏎️ My interests are: Motorsport & Gaming.
 - 📫 Reach out to me through: [My email](mailto:ashikul.chowdhury@proton.me)
